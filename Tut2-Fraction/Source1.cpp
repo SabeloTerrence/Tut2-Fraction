@@ -7,5 +7,4 @@ int main(void)
 	Fraction frac2(4, 2);
 	Fraction frac3 = frac1.add(frac2);
 	frac2.print();
-	system("pause");
 }
