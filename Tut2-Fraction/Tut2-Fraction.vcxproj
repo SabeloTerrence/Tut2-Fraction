@@ -76,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Fractionh.h" />
+    <ClInclude Include="Fraction.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
